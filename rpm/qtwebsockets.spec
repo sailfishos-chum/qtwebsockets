@@ -1,8 +1,8 @@
-%global qt_version 5.15.8
+%global qt_version 5.15.9
 
 Summary: Qt5 - WebSockets component
 Name: opt-qt5-qtwebsockets
-Version: 5.15.8
+Version: 5.15.9+kde2
 Release: 1%{?dist}
 
 # See LICENSE.GPL LICENSE.LGPL LGPL_EXCEPTION.txt, for details
